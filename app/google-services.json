@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "949766700842",
+    "firebase_url": "https://radroid-e3ec7.firebaseio.com",
+    "project_id": "radroid-e3ec7",
+    "storage_bucket": "radroid-e3ec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949766700842:android:58c3589416f0b1ad",
+        "android_client_info": {
+          "package_name": "com.cenkgun.android.RadRoid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949766700842-4b6tp38atc6ahlh71naltnacfgc8ngbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV0JWGp1WvAs8ZiO4MC3fdawJHRzL15u4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

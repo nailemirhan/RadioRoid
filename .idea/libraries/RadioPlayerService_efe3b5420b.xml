@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="RadioPlayerService-efe3b5420b">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.iammert/RadioPlayerService/efe3b5420b/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.iammert/RadioPlayerService/efe3b5420b/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.iammert/RadioPlayerService/efe3b5420b/jars/libs/aacdecoder-android-0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
